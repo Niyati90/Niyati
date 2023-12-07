@@ -1,0 +1,7 @@
+/* #first{
+    position: absolute;
+} */
+#sec{
+    position:sticky;
+    top: 150px;
+}
